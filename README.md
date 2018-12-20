@@ -1,15 +1,17 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 04 - Buffers 
 
-### Author: Student/Group Name
+### Author: Michael George, Code 401d___
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+[![Build Status](https://travis-ci.com/michaelageorge/04-buffers.svg?branch=master)](https://travis-ci.com/michaelageorge/04-buffers)
+
+* [repo](https://github.com/michaelageorge/04-buffers)
+* [travis](https://travis-ci.com/michaelageorge/04-buffers)
+* [server](http://xyz.com)
+
 
 ### Modules
 #### `modulename.js`
